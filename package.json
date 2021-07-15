@@ -1,0 +1,11 @@
+{
+    "name": "testing_growing_app",
+    "version": "1.0.0",
+    "description": "testing the growing app ",
+    "main": "script.js",
+    "scripts": {
+        "test": "jest --env=jsdom --watchAll"
+    },
+    "author": "elhosen",
+    "license": "ISC"
+}
